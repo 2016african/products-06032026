@@ -7,6 +7,5 @@
 </head>
 <body>
     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus eaque impedit quasi deserunt animi sapiente repellat non blanditiis itaque. Expedita excepturi illum quos reprehenderit laborum?</p>
-
 </body>
 </html>
